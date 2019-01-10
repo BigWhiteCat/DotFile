@@ -1,0 +1,13 @@
+BasedOnStyle: Google
+Language: Cpp
+ColumnLimit: 150
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+SortIncludes: true
+NamespaceIndentation: All
+IndentPPDirectives: AfterHash
+# AlignConsecutiveAssignments: true
+# AlignConsecutiveDeclarations: true
+AccessModifierOffset: -2
+IndentWidth: 4
+
